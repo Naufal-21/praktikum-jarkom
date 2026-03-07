@@ -10,4 +10,4 @@ Mempelajari Wireshark
 
 # Lampiran 
 Hasil Percobaan :
-![Hasil Percobaan](.../assets/image/week1.png)
+![Hasil Percobaan](../assets/image/week1.png)
