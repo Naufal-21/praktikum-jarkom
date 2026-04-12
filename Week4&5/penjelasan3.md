@@ -1,6 +1,6 @@
 # Laporan Praktikum Jaringan Komputer - nslookup
 
-**Nama:** Galang Samudra  
+**Nama:** Naufal Fudhail 
 **Instansi:** Telkom University Surabaya  
 **Tools:** Windows PowerShell / Command Prompt (`nslookup`)
 

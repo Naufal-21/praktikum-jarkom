@@ -1,6 +1,6 @@
 # Laporan Analisis Protokol UDP - Wireshark
 
-**Nama:** Galang Samudra  
+**Nama:** Naufal Fudhail 
 **File Analisis:** `http-ethereal-trace-5`  
 **Data Paket:** Paket No. 1 (SNMP)
 

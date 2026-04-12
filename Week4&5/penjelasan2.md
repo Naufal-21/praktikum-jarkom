@@ -1,6 +1,6 @@
 # Laporan Praktikum Jaringan Komputer: Analisis DNS dengan nslookup dan Wireshark
 
-**Nama:** Galang  
+**Nama:** Naufal Fudhail 
 **Kasus:** Analisis Query DNS untuk `www.mit.edu`
 
 ---
