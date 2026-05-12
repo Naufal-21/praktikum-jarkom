@@ -1,8 +1,8 @@
 # Modul 6 TCP (Transmission Control Protocol)
 ### Investigasi Mekanisme *Handshake*, *Sequence Numbers*, dan *Congestion Control*
 
-Nama    : Ighfir Maulana  
-NIM     : 103072400029  
+Nama    : Naufal Fudhail 
+NIM     : 103072400013  
 Kelas   : IF-04-04
 
 ---
