@@ -1,8 +1,8 @@
 # Modul 9 Web Server Sederhana
 ### Implementasi Web Server Berbasis TCP Socket Programming
 
-Nama    : Ighfir Maulana  
-NIM     : 103072400029  
+Nama    : Naufal Fudhail 
+NIM     : 103072400013  
 Kelas   : IF-04-04
 
 ---
